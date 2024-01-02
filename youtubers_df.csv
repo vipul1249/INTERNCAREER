@@ -1,13 +1,695 @@
-Row Labels,Count of Username
-Música y baile,160
-"Películas, Animación",61
-"Música y baile, Películas",41
-Vlogs diarios,37
-Noticias y Política,36
-"Películas, Humor",34
-"Animación, Videojuegos",34
-"Animación, Juguetes",29
-"Animación, Humor",27
-Educación,24
-Películas,24
-Grand Total,507
+Rank,Username,Categories,Suscribers,Country,Visits,Likes,Comments
+1,tseries,Música y baile,249500000,India,86200,2700,78
+2,MrBeast,"Videojuegos, Humor",183500000,Estados Unidos,117400000,5300000,18500
+3,CoComelon,Educación,165500000,Unknown,7000000,24700,0
+4,KidsDianaShow,"Animación, Juguetes",113500000,Unknown,3900000,12400,0
+5,PewDiePie,"Películas, Videojuegos",111500000,Estados Unidos,2400000,197300,4900
+6,LikeNastyaofficial,Juguetes,107500000,Unknown,2600000,28000,0
+7,VladandNiki,"Animación, Juguetes",101400000,Unknown,4100000,22100,0
+8,zeemusiccompany,Música y baile,99700000,India,74300,2600,32
+9,WWE,Videojuegos,97200000,Estados Unidos,184500,6300,214
+10,BLACKPINK,Música y baile,91300000,Estados Unidos,863200,146900,3400
+11,SonySAB,"Películas, Animación",85400000,India,35500,615,21
+12,5MinuteCraftsYouTube,Películas,80300000,India,164600,703,35
+13,BTS,Música y baile,76500000,India,969700,180300,7400
+14,HYBELABELS,Música y baile,72700000,Estados Unidos,440700,23900,932
+15,Pinkfong,"Animación, Juguetes",69600000,Unknown,506400,397,0
+16,ChuChuTV,Juguetes,67500000,Unknown,652100,17800,0
+17,KondZilla,Música y baile,66600000,Brasil,30400,1100,4
+18,filmigaane,Música y baile,66400000,India,33000,392,18
+19,TSeriesBhaktiSagar,Música y baile,62600000,India,24900,983,35
+20,tipsofficial,Música y baile,60900000,India,80200,935,22
+21,MOVIECLIPS,"Películas, Animación",59900000,Estados Unidos,16600,231,9
+22,ElReinoInfantil,Música y baile,59700000,Unknown,393000,2600,0
+23,dudeperfect,Videojuegos,59700000,Estados Unidos,5300000,156500,4200
+24,aajtak,Noticias y Política,58900000,India,7600,229,4
+25,WaveMusicIndia,Música y baile,58700000,Unknown,36600,792,54
+26,SonyMusicIndia,Música y baile,57900000,India,26300,964,21
+27,marshmello,Música y baile,56700000,Estados Unidos,145900,8900,167
+28,yrf,Música y baile,55700000,India,60300,2100,33
+29,infobellshindirhymes,Educación,55700000,Unknown,1200000,34700,0
+30,LooLooKids,Música y baile,54800000,Estados Unidos,595600,2700,0
+31,TaylorSwift,Música y baile,54100000,Estados Unidos,4300000,300400,15000
+32,EdSheeran,Música y baile,53700000,Estados Unidos,144200,10200,345
+33,BillionSurpriseToys,Juguetes,53100000,Unknown,1600000,0,0
+34,ArianaGrande,Música y baile,52900000,Estados Unidos,1100000,85800,3800
+35,JuegaGerman,"Películas, Animación",48600000,México,2000000,117100,3000
+36,BillieEilish,Música y baile,48600000,Estados Unidos,208100,27200,476
+37,sonymusicindiaVEVO,Música y baile,47500000,India,36600,664,28
+38,A4a4a4a4,"Animación, Humor",47300000,Rusia,9700000,330400,22000
+39,HarPalGeoOfficial,"Películas, Animación",46400000,Pakistán,11000,299,2
+40,KatyPerry,Música y baile,44400000,Unknown,101400,7500,177
+41,Shakira,Videojuegos,44400000,Estados Unidos,102100,8200,210
+42,whindersson,"Música y baile, Animación",44400000,Brasil,174600,35700,154
+43,Alanwalkermusic,"Música y baile, Películas",44000000,Estados Unidos,124700,8200,205
+44,MashaBearEN,"Películas, Animación",43700000,Unknown,856200,7500,0
+45,Mikecrack,"Películas, Animación",43400000,México,2200000,183400,1800
+46,toysandcolors,"Películas, Juguetes",42900000,Unknown,2000000,4600,0
+47,speedrecords,Música y baile,42900000,India,21100,1100,30
+48,LikeNastya_Show,"Películas, Juguetes",42500000,Unknown,972200,2400,0
+49,KimberlyLoaiza,Música y baile,42100000,México,5300000,271300,16000
+50,IshtarMusic,Música y baile,42100000,India,32600,994,9
+51,LittleBabyBum,"Animación, Juguetes",41000000,Unknown,99000,184,0
+52,shfa2,"Animación, Juguetes",40600000,Unknown,585500,4800,0
+53,CarryMinati,"Películas, Humor",40300000,India,0,0,0
+54,luccastoon,"Películas, Animación",40100000,Brasil,588600,13100,0
+55,SuperSimpleSongs,Música y baile,39900000,Unknown,648400,10100,0
+56,JessNoLimit,"Películas, Animación",39600000,Indonesia,1300000,73500,1600
+57,xxxtentacion,Música y baile,39500000,Estados Unidos,225700,28500,2900
+58,gr6explode,Música y baile,39300000,Brasil,120300,5700,236
+59,GaaneSuneAnsune,Música y baile,39100000,India,28800,211,9
+60,shfa-1,Vlogs diarios,39100000,Francia,5300000,57300,0
+61,vladvaniki1,"Películas, Humor",38700000,Unknown,890600,3400,0
+62,DaddyYankee,Música y baile,38300000,Colombia,82800,6500,123
+63,MariaClaraeJP,"Películas, Animación",37700000,Unknown,1700000,10800,0
+64,PowerKidstv,"Películas, Animación",37400000,India,41700,0,0
+65,SaregamaMusic,Películas,37000000,India,27300,703,26
+66,RicisOfficial1795,"Música y baile, Películas",36900000,Indonesia,343800,27500,357
+67,IndiaTV,Noticias y Política,36700000,India,14300,255,3
+68,LaGranjaDeZenon,"Música y baile, Animación",36600000,Unknown,599800,5200,0
+69,tseriesoldisgold,Música y baile,36500000,India,41100,1200,8
+70,Ozuna,Música y baile,36300000,Estados Unidos,22700,2400,76
+71,TotalGaming093,"Películas, Videojuegos",36300000,India,1500000,129400,4900
+72,GenevievesPlayhouse,Juguetes,35700000,Unknown,965500,824,0
+73,RyansWorld,"Videojuegos, Juguetes",35500000,Unknown,326500,2000,0
+74,markiplier,"Animación, Videojuegos",35500000,Estados Unidos,2100000,126500,3800
+75,tseriesapnapunjab,Música y baile,35000000,India,23300,601,27
+76,YOLOAVENTURAS,"Películas, Animación",34600000,México,1100000,73600,0
+77,GeetMP3,Música y baile,34500000,India,0,0,0
+78,jbalvin,"Animación, Videojuegos",34200000,Colombia,16900,1600,60
+79,SSSniperWolf,"Animación, Humor",34200000,Estados Unidos,1200000,34600,2100
+80,vegetta777,"Películas, Animación",34000000,México,249900,19400,209
+81,NoCopyrightSounds,Música y baile,33600000,Estados Unidos,191100,6900,363
+82,babybus,"Animación, Juguetes",33300000,Unknown,267300,623,0
+83,DisneyMusicVEVO,"Música y baile, Películas",33200000,Estados Unidos,276900,3200,198
+84,KarolG,Música y baile,33000000,Colombia,74000,2700,165
+85,WowKidz1,"Animación, Humor",33000000,Unknown,17200,88,0
+86,erosentertainment,Películas,33000000,India,7100,93,5
+87,LucasandMarcus,"Animación, Humor",32800000,Estados Unidos,706100,23300,504
+88,AboFlah,"Animación, Videojuegos",32700000,Iraq,3300000,382000,11400
+89,FrostDiamond,"Películas, Animación",32600000,Indonesia,316200,13200,386
+90,MrBean,"Películas, Humor",32400000,India,204400,1800,73
+91,WorldwideRecordsBhojpuri,Música y baile,32200000,India,44200,1600,29
+92,rezendeevil,Películas,32200000,Brasil,413400,15600,153
+93,SMTOWN,Música y baile,32200000,Estados Unidos,132300,12700,505
+94,PeppaPigOfficial,Juguetes,32200000,Unknown,110200,508,0
+95,zeenews,Noticias y Política,32100000,India,14700,231,6
+96,fedevigevani,"Animación, Humor",32000000,México,7700000,412200,17000
+97,dream,"Animación, Videojuegos",31900000,Estados Unidos,3300000,309200,19000
+98,GENIALBrightSideSpanish,Animación,31800000,México,15500,524,21
+99,MrBeast2,Vlogs diarios,31300000,Estados Unidos,83100000,5000000,11600
+100,dianaandromaesp331,"Animación, Juguetes",31100000,Unknown,403500,714,0
+101,ImagineDragons,Música y baile,31000000,Estados Unidos,77100,10700,217
+102,AttaHalilintar,"Música y baile, Películas",30600000,Indonesia,155300,7600,108
+103,enaldinho,Películas,30600000,Brasil,1800000,63400,838
+104,toyoraljanahtv,Música y baile,30600000,Unknown,131100,0,0
+105,jacksepticeye,"Animación, Humor",30400000,Estados Unidos,1600000,83400,2300
+106,TrapNation,Música y baile,30400000,Estados Unidos,47800,1600,60
+107,LittleAngel,"Animación, Juguetes",30400000,Unknown,394800,209,0
+108,TalkingTom,"Películas, Animación",30400000,Estados Unidos,201300,798,0
+109,spinninrecords,Música y baile,30200000,Estados Unidos,31900,1200,33
+110,DaFuqBoom,"Animación, Humor",29800000,Estados Unidos,52700000,1700000,82800
+111,ultrarecords,Música y baile,29800000,Estados Unidos,15800,607,21
+112,AlanChikinChow,"Música y baile, Humor",29700000,India,3600000,106500,428
+113,infobellstamilrhymes,Educación,29500000,Unknown,1200000,17700,0
+114,Maluma_Official,Música y baile,29400000,Colombia,226400,8500,275
+115,infobellstelugurhymes,Educación,29400000,Unknown,271400,5600,0
+116,adityamusic,Música y baile,28800000,India,28200,568,14
+117,GoldminesDishoom,"Películas, Videojuegos",28700000,Unknown,14100,167,0
+118,KidsRomaShow,"Animación, Juguetes",28200000,Unknown,1200000,3100,0
+119,toycantando,"Música y baile, Animación",28100000,Unknown,426400,11700,0
+120,SandeepSeminars,Vlogs diarios,28000000,India,1200000,58500,4000
+121,LankyBox,"Animación, Videojuegos",28000000,Estados Unidos,346500,6300,200
+122,bouncepatrol,Música y baile,27900000,Unknown,339300,6600,0
+123,JYPEntertainment,Música y baile,27800000,Estados Unidos,177700,8700,668
+124,nickjr,"Animación, Juguetes",27800000,Unknown,109200,191,0
+125,DanTDM,"Animación, Videojuegos",27800000,Estados Unidos,3500000,285000,52500
+126,wizkhalifa,Música y baile,27800000,Estados Unidos,87400,4100,305
+127,brentrivera,"Videojuegos, Humor",27600000,Estados Unidos,6400000,154100,5000
+128,NichLmao,Vlogs diarios,27500000,Estados Unidos,1500000,85800,1600
+129,renatongarcia,"Películas, Animación",27200000,Brasil,748200,68800,833
+130,dbillions,"Música y baile, Animación",27100000,Unknown,1000000,651,0
+131,Netflix,"Películas, Animación",27000000,Estados Unidos,202600,2200,176
+132,RaffyTulfoInAction,Noticias y Política,26800000,Filipinas,398300,5300,443
+133,indosiar,"Música y baile, Películas",26700000,Indonesia,18800,471,24
+134,worldstarhiphop,Música y baile,26600000,Estados Unidos,40300,993,127
+135,smosh,"Películas, Humor",26300000,Estados Unidos,289100,21300,214
+136,dianaandromahin8102,"Animación, Juguetes",26200000,Unknown,109000,322,0
+137,nickiminaj,Música y baile,26100000,Estados Unidos,1600000,98300,7600
+138,mariliamendoncareal,Música y baile,26100000,Brasil,0,0,0
+139,TheLallantop,Noticias y Política,26000000,India,30800,822,52
+140,AGT,"Música y baile, Películas",25900000,Estados Unidos,186800,3100,197
+141,davidguetta,Música y baile,25900000,Brasil,0,0,0
+142,postmalone,Música y baile,25900000,Estados Unidos,223100,13100,526
+143,VanossGaming,"Animación, Videojuegos",25900000,Estados Unidos,1300000,56500,1100
+144,abp_live,Noticias y Política,25800000,India,2300,49,1
+145,LosPolinesios,"Música y baile, Películas",25700000,México,1400000,38400,866
+146,AlejoIgoa,Animación,25700000,Argentina,5700000,208400,1700
+147,ZHCYT,"Diseño/arte, DIY y Life Hacks",25700000,Estados Unidos,2600000,127300,2200
+148,RansEntertainment,Películas,25700000,Indonesia,365500,11400,399
+149,wbkids,"Películas, Animación",25700000,Unknown,76100,699,0
+150,coldplay,Música y baile,25500000,Estados Unidos,66900,3700,81
+151,ChrisBrownTV,Música y baile,25500000,Estados Unidos,102000,9700,354
+152,MarkRober,Ciencia y tecnología,25500000,Estados Unidos,479200,31700,329
+153,danrhodes,"Películas, Humor",25500000,Estados Unidos,414500,19300,131
+154,TRANS7Official,"Películas, Humor",25400000,Indonesia,1600,29,2
+155,WatchMojo,"Películas, Animación",25100000,Estados Unidos,46700,1400,195
+156,kidstv,Juguetes,25000000,Unknown,132600,1600,0
+157,ChloeTing,"Fitness, Salud y autoayuda",24900000,Estados Unidos,192700,7900,621
+158,PrestonYT,"Videojuegos, Humor",24900000,Estados Unidos,1300000,36100,287
+159,topperguild,"Animación, Humor",24900000,Estados Unidos,1800000,77600,838
+160,PenMovies,"Películas, Animación",24800000,India,59800,1200,25
+161,unknownboyvarun,Música y baile,24700000,India,1300000,119600,154
+162,1theK,Música y baile,24700000,Indonesia,10100,595,29
+163,DianaRomaARA,Animación,24600000,Unknown,1200000,5100,0
+164,shfashowindia,Vlogs diarios,24600000,Unknown,1300000,8800,0
+165,kidschannelindia,Música y baile,24400000,Unknown,80300,385,0
+166,netdmuzik,Música y baile,24400000,Turquía,6100,158,34
+167,TheElenaYa,"Animación, Juguetes",24400000,Unknown,611400,1100,0
+168,rug,"Videojuegos, Humor",24300000,Estados Unidos,3200000,85300,5100
+169,DJSnake,Música y baile,24300000,India,16700,846,19
+170,alanbecker,"Animación, Videojuegos",24300000,Estados Unidos,7600000,582600,5900
+171,MayaAndMary,Animación,24100000,Unknown,134600,0,0
+172,juandediospantojaa,"Música y baile, Películas",24000000,México,3000000,133200,3600
+173,EnriqueIglesias,Música y baile,23900000,Estados Unidos,21800,2000,142
+174,JamesCharles,"Belleza, Moda",23900000,Estados Unidos,964500,62300,1100
+175,MrMaxLife,Videojuegos,23900000,Rusia,824200,19300,3000
+176,TroomTroom,"Animación, Juguetes",23900000,Unknown,62900,1200,15
+177,PeppaPigEspanolLatinoOficial,"Películas, Juguetes",23800000,Unknown,604400,1700,0
+178,misskaty1133,"Videojuegos, Juguetes",23700000,Rusia,1300000,15200,1000
+179,Ninja,"Animación, Videojuegos",23700000,Estados Unidos,204600,8700,141
+180,NickyJamTV,"Música y baile, Películas",23700000,Colombia,15800,1200,58
+181,NickyJamTV,"Música y baile, Películas",23700000,Colombia,15800,1200,58
+182,ishaanali11,Vlogs diarios,23500000,India,3400000,242900,467
+183,Jelly,"Animación, Videojuegos",23500000,Estados Unidos,156400,5800,266
+184,toyorbabytv,Música y baile,23500000,Unknown,111400,0,0
+185,GMMGrammy,Música y baile,23400000,Tailandia,2900,96,3
+186,WaveMusicBhojpuri,Música y baile,23400000,India,8400,154,7
+187,whitehillmusic,Música y baile,23300000,India,15300,659,5
+188,VaniaManiaKids,"Animación, Juguetes",23300000,Unknown,325000,599,0
+189,BabyBusES,"Películas, Animación",23200000,Unknown,80000,332,0
+190,capitanyolotroll,"Animación, Humor",23100000,México,3200000,189300,827
+191,ZachChoi,Vlogs diarios,23000000,Estados Unidos,142200,3000,162
+192,AmiRodrigueZZ,"Animación, Humor",22900000,Colombia,4300000,294400,1300
+193,sia,"Música y baile, Películas",22900000,Estados Unidos,0,0,0
+194,vladandnikiarab2,Animación,22800000,Unknown,982900,4800,0
+195,invictorgs3,"Animación, Videojuegos",22800000,México,806400,25500,418
+196,Kidibli,"Animación, Juguetes",22800000,Unknown,138500,2400,0
+197,StokesTwins,"Videojuegos, Humor",22700000,Estados Unidos,11700000,235000,10000
+198,SSundee,"Animación, Videojuegos",22700000,Estados Unidos,1700000,59800,1800
+199,souravjoshivlogs7028,Vlogs diarios,22700000,India,5600000,382300,8900
+200,THECHAINSMOKERS,"Música y baile, Películas",22700000,Estados Unidos,38900,1800,76
+201,ZachKing,"Películas, Humor",22600000,Estados Unidos,4900000,238500,522
+202,BenAzelart,"Videojuegos, Humor",22500000,Estados Unidos,3700000,44900,2700
+203,fgteev,"Películas, Videojuegos",22500000,Estados Unidos,826800,10300,2100
+204,disneyla,"Películas, Animación",22400000,Unknown,89100,105,0
+205,smilefamily363,"Animación, Juguetes",22400000,Unknown,7600,45,0
+206,rotanamusic,Música y baile,22300000,Arabia Saudita,2100000,12600,321
+207,RAFAELUIZOFICIAL,"Películas, Animación",22100000,Brasil,671700,30500,522
+208,williesalim,"Películas, Humor",21900000,Indonesia,396200,0,2800
+209,TlnovelasOficial,"Música y baile, Animación",21900000,México,5500,152,5
+210,royaltyfam,Humor,21900000,Estados Unidos,4700000,67000,6600
+211,EvaBravoPlay,"Animación, Juguetes",21800000,Unknown,332800,1300,0
+212,infinite,"Videojuegos, Humor",21700000,Estados Unidos,884800,45700,1400
+213,khangsresearchcentre1685,Educación,21700000,India,7300000,501700,17000
+214,gmapublicaffairs,Noticias y Política,21700000,Filipinas,4300,68,2
+215,vladandnikidn,"Música y baile, Películas",21700000,Unknown,529400,1300,0
+216,beckyg,Música y baile,21500000,Estados Unidos,0,0,0
+217,Priyal_Kukreja,Vlogs diarios,21500000,India,7700000,224600,510
+218,BaimPaula,"Música y baile, Películas",21300000,Indonesia,352500,12600,773
+219,buzzfeedtasty,Comida y bebida,21100000,Estados Unidos,84300,3200,34
+220,fatosdesconhecidos,Ciencia y tecnología,21100000,Brasil,92900,10200,407
+221,lyricalemonade,"Música y baile, Animación",21100000,Estados Unidos,2800000,127300,5800
+222,MrVivekBindra,Educación,21100000,India,56900,3100,17
+223,kurzgesagt,Educación,21100000,Estados Unidos,4900000,253500,14000
+224,romeo,Música y baile,21100000,Estados Unidos,3200000,53900,1600
+225,NBA,Deportes,20900000,Estados Unidos,46400,1000,55
+226,JasonDerulo,Música y baile,20800000,Estados Unidos,80500,3100,35
+227,KiddiestvHindi,Educación,20800000,Unknown,17700,66,0
+228,avicii,"Música y baile, Películas",20700000,Estados Unidos,0,0,0
+229,5MinuteCraftsDIY,Música y baile,20700000,India,14600,110,4
+230,NinjaKidz,Videojuegos,20700000,Estados Unidos,289800,6600,217
+231,7clouds,Música y baile,20700000,Estados Unidos,92100,1200,74
+232,LinkinPark,Música y baile,20700000,Estados Unidos,73700,7100,134
+233,BabyBusID,"Películas, Humor",20600000,Unknown,285400,744,0
+234,#NAME?,Educación,20600000,Unknown,513400,3100,0
+235,JoseComilaoTotoy,Animación,20600000,Unknown,199000,5000,0
+236,jakepaul,Fitness,20500000,Estados Unidos,172400,7500,127
+237,somoynews360,Vlogs diarios,20500000,Bangladesh,7400,196,4
+238,SlivkiShow,Videojuegos,20500000,Rusia,2500000,154200,6800
+239,Miawaug,Videojuegos,20500000,Indonesia,748400,29300,2000
+240,EmiwayBantai,Música y baile,20500000,India,892800,95600,5500
+241,Cookieswirlc,Videojuegos,20500000,Estados Unidos,147000,2000,482
+242,triggeredinsaan,Humor,20400000,India,11100000,1400000,38000
+243,SonyAATH,"Viajes, Espectáculos",20400000,Bangladesh,89500,782,49
+244,IShowSpeed,"Videojuegos, Humor",20300000,Estados Unidos,2500000,101600,5000
+245,RobinHoodGamer1,"Animación, Videojuegos",20300000,Brasil,465800,17000,533
+246,5MinuteCraftsPLAY,Películas,20300000,India,14300,106,5
+247,marvel,"Películas, Animación",20300000,Estados Unidos,94400,5200,216
+248,gordonramsay,"Comida y bebida, Salud y autoayuda",20100000,Estados Unidos,114900,2800,117
+249,BuzzFeedVideo,Comida y bebida,20100000,Estados Unidos,15500,377,8
+250,unboxtherapy,Diseño/arte,20100000,Estados Unidos,178500,7300,140
+251,gusttavolimaoficial,Música y baile,20100000,Brasil,131000,6000,88
+252,AuthenticGames,"Películas, Videojuegos",20100000,Brasil,20100,2200,34
+253,pencilmation,"Animación, Humor",20100000,Estados Unidos,179700,1500,88
+254,PinkPanther,"Películas, Animación",20100000,Unknown,274200,1700,0
+255,React,Humor,20100000,Estados Unidos,133300,5400,214
+256,PTXofficial,Música y baile,20100000,Estados Unidos,0,0,0
+257,VEVO,Música y baile,20100000,Estados Unidos,9500,519,7
+258,BGT,"Música y baile, Películas",19900000,Reino Unido,40800,576,28
+259,sctv_,"Música y baile, Películas",19900000,Indonesia,10900,225,13
+260,ClashOfClans,"Películas, Animación",19900000,Estados Unidos,1600000,30100,952
+261,Vsauce,Ciencia y tecnología,19900000,Estados Unidos,4500000,449000,3600
+262,fifa,Deportes,19700000,Estados Unidos,43200,2100,28
+263,CraftyPanda,"Películas, Humor",19700000,India,18000,136,5
+264,DLSNews,Noticias y Política,19700000,India,123000,3800,188
+265,Sidemen,"Videojuegos, Humor",19500000,Reino Unido,9200000,284800,8200
+266,heidizidane9861,Vlogs diarios,19400000,Unknown,12800,65,0
+267,sonotek,"Música y baile, Animación",19300000,India,9800,396,70
+268,degoboom,"Películas, Animación",19200000,México,156100,5200,22
+269,CalvinHarris,Música y baile,19100000,Estados Unidos,71300,3500,156
+270,howridiculous,Videojuegos,19100000,Estados Unidos,3700000,68300,312
+271,ThePoznavatel,"DIY y Life Hacks, Juguetes",19100000,Rusia,2300000,33200,2100
+272,TEDEd,Ciencia y tecnología,19100000,Estados Unidos,303100,12400,512
+273,HiBestMan,Videojuegos,19100000,Rusia,1300000,49300,1600
+274,cardib,Música y baile,19100000,Estados Unidos,131800,11500,475
+275,smilefamilyspanish1463,"Animación, Juguetes",19000000,Unknown,83800,107,0
+276,LittleAngelEspanol,Animación,19000000,Unknown,123500,339,0
+277,grammygoldofficial,Música y baile,18800000,Tailandia,12900,309,9
+278,IanLucasOficial,"Películas, Humor",18800000,Argentina,5600000,401700,2700
+279,alia,"Animación, Videojuegos",18800000,Estados Unidos,336100,10200,297
+280,ArianaGrandeVevo,"Música y baile, Humor",18700000,Estados Unidos,0,0,0
+281,MrMarmok,"Animación, Videojuegos",18600000,Rusia,3600000,328100,6700
+282,LikeNastya_Vlog,Vlogs diarios,18600000,Unknown,484100,1800,0
+283,elcanaldePlimPlim,Música y baile,18600000,Unknown,665100,0,0
+284,Blippi,"Educación, Juguetes",18600000,Unknown,722900,3800,0
+285,rsiammusic,Música y baile,18600000,Tailandia,6200,137,5
+286,DanielSaboya,Música y baile,18600000,Brasil,12600,544,6
+287,news18India,Noticias y Política,18500000,India,5400,114,1
+288,NaisaAlifiaYurizaNAY,"Música y baile, Películas",18400000,Indonesia,160900,7800,78
+289,MSA.official,"Animación, Humor",18400000,Estados Unidos,4300000,96800,3600
+290,GoodMythicalMorning,Comida y bebida,18400000,Estados Unidos,447300,20200,532
+291,SonyMusicSouthVEVO,Música y baile,18400000,Unknown,1300,7,1
+292,DannyFitt,Películas,18300000,México,340000,14200,128
+293,korayzeynep,Vlogs diarios,18200000,Turquía,198800,5800,0
+294,GENHALILINTAR,"Música y baile, Humor",18200000,Indonesia,89200,2800,59
+295,INCRIVEL_PT,Ciencia y tecnología,18200000,Unknown,8900,415,13
+296,Apple,"Música y baile, Animación",18200000,Unknown,3000000,18300,0
+297,LuisFonsiVEVO,Música y baile,18200000,Perú,2000000,33100,3000
+298,manualdomundo,Ciencia y tecnología,18200000,Brasil,311200,35500,299
+299,KatieAngelTV_,Música y baile,18200000,México,0,0,0
+300,LikeNastya_VNM,Películas,18200000,Unknown,410200,0,0
+301,SebastianYatra,Música y baile,18200000,Colombia,26300,2000,92
+302,Aphmau,"Animación, Videojuegos",18000000,Estados Unidos,2000000,37800,2700
+303,TheGrefg,"Películas, Videojuegos",18000000,España,145900,10400,82
+304,RobleisIUTU,"Películas, Animación",18000000,Argentina,267500,18500,426
+305,tanboykun,Música y baile,18000000,Indonesia,1400000,25400,1400
+306,BispoBrunoLeonardo,Música y baile,18000000,Brasil,762100,276400,154000
+307,News24thinkfirst,Noticias y Política,18000000,India,4400,93,4
+308,ZuniandFamilyofficial,Vlogs diarios,18000000,Unknown,58300,177,0
+309,demilovato,Música y baile,18000000,Estados Unidos,34300,5200,166
+310,AMARINTVHD,Noticias y Política,18000000,Tailandia,9000,137,5
+311,GameTheory,Películas,18000000,Estados Unidos,2600000,120000,4500
+312,Jane_asmr,Vlogs diarios,17800000,Indonesia,131600,2600,190
+313,portadosfundos,"Películas, Animación",17800000,Brasil,390100,26200,184
+314,mgcplayhouse,"Juguetes, Coches y vehículos",17800000,Unknown,56300,96,0
+315,mgcplayhouse,"Juguetes, Coches y vehículos",17800000,Unknown,63600,75,0
+316,lilpumpeskii,Música y baile,17700000,Estados Unidos,139500,5300,566
+317,NarendraModi,Noticias y Política,17700000,India,39500,2700,108
+318,jasonvlogslife,"Animación, Juguetes",17600000,Unknown,368500,896,0
+319,PrimeVideoIN,"Películas, Animación",17600000,India,18400,535,4
+320,JFlaMusic,Música y baile,17600000,Estados Unidos,59800,3100,426
+321,musicalrmastv1,Música y baile,17600000,Iraq,103600,4500,259
+322,mkbhd,Ciencia y tecnología,17600000,Estados Unidos,1400000,81100,2500
+323,RepublicTVBharat,Noticias y Política,17600000,India,7100,0,3
+324,zappytoons,Educación,17500000,Unknown,110400,625,0
+325,ElReinoAJugar,"Educación, Juguetes",17500000,Unknown,216600,570,0
+326,HowToBasic,Comida y bebida,17400000,Estados Unidos,1800000,63500,5200
+327,stubbornfacts,Noticias y Política,17400000,India,20700,1000,56
+328,TheBrianMaps,"Videojuegos, Humor",17400000,Rusia,5100000,390700,11000
+329,anitta,Música y baile,17400000,Brasil,67700,5600,111
+330,jordanmatter,"Música y baile, Humor",17400000,Estados Unidos,7900000,98500,8500
+331,TRANSTVofficial,"Música y baile, Películas",17300000,Indonesia,1000,17,1
+332,JohnyFamilyShow,"Música y baile, Juguetes",17300000,Unknown,52500,129,0
+333,popchartbusters,Música y baile,17200000,India,14500,350,48
+334,Willyrex,"Películas, Animación",17200000,México,133400,10000,72
+335,Queen,"Música y baile, Películas",17200000,Estados Unidos,122500,8600,206
+336,AayuandPihuShow,"Películas, Humor",17000000,India,2600000,44300,7100
+337,SriBalajiMovies,Películas,17000000,India,9800,281,0
+338,LikeNastya_IDN,"Música y baile, Películas",17000000,Unknown,241500,0,0
+339,VICE,Noticias y Política,17000000,Estados Unidos,45600,884,56
+340,GatoGalactico,Animación,17000000,Brasil,71900,1500,0
+341,LahariMusicIndia,Música y baile,17000000,India,14000,523,8
+342,BBCHindi,Noticias y Política,17000000,India,84900,0,181
+343,withkids2063,"Animación, Juguetes",16900000,Estados Unidos,28200,0,0
+344,BeastPhilanthropy,Comida y bebida,16900000,Estados Unidos,21500000,952100,24000
+345,BollywoodClassics,Música y baile,16900000,India,40100,191,12
+346,DesiMelodies,Música y baile,16800000,India,2400000,9500,259
+347,IvanaAlawi,"Películas, Humor",16800000,Filipinas,3200000,109400,6800
+348,NMFNews,Noticias y Política,16800000,India,4000,86,2
+349,DeToxoMoroxo-Oficial,"Películas, Animación",16800000,México,352900,15600,2800
+350,ufc,Deportes,16800000,Estados Unidos,86700,1700,189
+351,gmmtv,"Música y baile, Películas",16800000,Tailandia,34000,951,27
+352,SagarKalraShorts,Vlogs diarios,16800000,India,864100,8000,129
+353,TuCOSMOPOLIS,Noticias y Política,16800000,México,37900,2400,249
+354,thairathonline,Noticias y Política,16700000,Tailandia,9100,137,6
+355,viralhog,Juguetes,16700000,Estados Unidos,39500,1300,28
+356,failarmy,"Animación, Humor",16700000,Estados Unidos,2200000,20700,746
+357,IDEASEN5MINUTOSoficial,Películas,16700000,México,116500,246,8
+358,DailyDoseOfInternet,Animales y mascotas,16600000,Estados Unidos,4000000,193200,5200
+359,KaykaiSalaiderChannel,"Películas, Humor",16600000,Tailandia,813000,32500,369
+360,LEGO,Animación,16600000,Estados Unidos,28000,304,0
+361,RCTILAYARDRAMAINDONESIA,"Música y baile, Películas",16600000,Indonesia,10200,174,5
+362,Pitbull,Música y baile,16500000,Estados Unidos,9800,859,42
+363,boyceavenue,Música y baile,16500000,Brasil,17200,1400,26
+364,Lyna,"Películas, Animación",16400000,Argentina,327300,9600,816
+365,Infobellsbengalirhymes,Educación,16400000,Unknown,746400,20500,0
+366,GLENTYOUTUBE,Videojuegos,16400000,Rusia,1800000,100900,1800
+367,T3ddy,Vlogs diarios,16400000,Brasil,413500,42600,941
+368,FitDanceTV,"Música y baile, Animación",16400000,Unknown,29100,844,11
+369,mattstonie,Comida y bebida,16400000,Estados Unidos,1800000,54600,1800
+370,TWICE,"Música y baile, Películas",16400000,Filipinas,350600,51700,304
+371,Unspeakable,"Videojuegos, Humor",16400000,Estados Unidos,1900000,40000,318
+372,vladandnikiarab,Animación,16300000,Unknown,126100,613,0
+373,ADME_RU,Animación,16300000,Rusia,17200,472,26
+374,DearSir,Educación,16300000,India,266300,22500,2300
+375,JoseComelonEspanol,Comida y bebida,16300000,Unknown,484600,1900,0
+376,antrax,Animación,16200000,México,623600,39500,746
+377,kidsplay,"Películas, Juguetes",16200000,Unknown,28300,132,0
+378,DylandPROS,"Películas, Animación",16200000,Indonesia,21500,996,28
+379,TV9Bharatvarsh,Noticias y Política,16200000,India,4100,97,1
+380,mkmusic,Música y baile,16100000,Brasil,29200,1700,67
+381,MoreAliA,"Animación, Videojuegos",16100000,Estados Unidos,645200,11900,389
+382,camilo,Música y baile,16000000,Colombia,560000,17000,590
+383,Arifmuhammadd,"Música y baile, Películas",16000000,Indonesia,3300000,62400,2000
+384,wifistudy,Educación,16000000,India,3900,184,4
+385,katakit_baby,Música y baile,16000000,Arabia Saudita,174500,1200,0
+386,JulianaBaltar,"Películas, Humor",16000000,Brasil,207800,9400,139
+387,kuplinovplay,Videojuegos,16000000,Rusia,1900000,124700,2300
+388,DopeLyrics,Música y baile,16000000,Estados Unidos,24200,242,16
+389,hamaarbhojpuri,Música y baile,16000000,India,32200,1200,22
+390,yudistardhana,Películas,16000000,Indonesia,492000,18300,148
+391,ChetanMongaVlogs,Vlogs diarios,15900000,India,1400000,95100,238
+392,TeamFilmsBhojpuri,Música y baile,15900000,India,11600,241,17
+393,RottenTomatoesTRAILERS,"Películas, Animación",15800000,Estados Unidos,34600,510,49
+394,FCBarcelona,Deportes,15800000,Estados Unidos,164500,12100,172
+395,5MCArabic,Películas,15800000,Egipto,32500,169,4
+396,TalkingFriends,"Animación, Humor",15700000,Estados Unidos,17800,125,0
+397,SonyMusicSouth,"Música y baile, Películas",15600000,India,256100,3000,85
+398,zutigang,Vlogs diarios,15600000,Estados Unidos,124400,4900,24
+399,HenriqueeJuliano,Música y baile,15600000,Brasil,2000000,19100,453
+400,CNN,"Música y baile, Animación",15600000,Estados Unidos,152800,2300,983
+401,MobileLegends5v5MOBA,"Animación, Videojuegos",15600000,Indonesia,80900,695,6
+402,Zayn,Música y baile,15600000,Estados Unidos,145200,20500,935
+403,genierock,Música y baile,15600000,Tailandia,66700,742,41
+404,TheHarshBeniwal,"Películas, Humor",15600000,India,0,0,0
+405,joerogan,Vlogs diarios,15600000,Estados Unidos,1200000,20700,3100
+406,SRKMUSIC,Música y baile,15600000,India,13000,318,20
+407,EliKids,Música y baile,15600000,Unknown,173500,2300,0
+408,Senya_Super,"Animación, Juguetes",15500000,Unknown,15800,117,0
+409,ShriPrashant,Educación,15500000,India,71800,6300,44
+410,A2Motivation,Educación,15500000,India,715000,103500,634
+411,Kerajinan5-Menit,Música y baile,15400000,Indonesia,11500,70,3
+412,romanatwoodvlogs,"Películas, Humor",15400000,Estados Unidos,2500000,106700,4300
+413,LinusTechTips,Ciencia y tecnología,15400000,Estados Unidos,1100000,54800,3100
+414,DaveAndAva,Música y baile,15400000,Unknown,164100,559,0
+415,kompastv,Noticias y Política,15400000,Indonesia,4400,34,5
+416,Jesser,"Videojuegos, Humor",15400000,Estados Unidos,1300000,50600,321
+417,RayWilliamJohnson,"Animación, Humor",15400000,Estados Unidos,2600000,237600,1800
+418,GoAmiGo,Vlogs diarios,15400000,Colombia,7900000,455300,2300
+419,nianaguerrero,Música y baile,15400000,Filipinas,504800,12100,290
+420,abscbnnews,Noticias y Política,15400000,Filipinas,3800,39,2
+421,ndtvindia,Noticias y Política,15400000,India,3300,38,2
+422,MNCTVOfficialId,"Música y baile, Películas",15300000,Indonesia,1200,34,0
+423,studyiqofficial,Educación,15200000,India,16400,883,21
+424,MohamedRamadan,"Música y baile, Películas",15200000,Egipto,272900,6400,82
+425,HongyuASMR,ASMR,15200000,Estados Unidos,368500,4100,148
+426,DaftarPopuler,Ciencia y tecnología,15200000,Indonesia,56400,749,97
+427,EdisonPts,Videojuegos,15200000,Rusia,1600000,108100,4200
+428,SupercarBlondie,Animación,15200000,Estados Unidos,745100,23100,425
+429,kwebbelkop,"Animación, Videojuegos",15200000,Estados Unidos,60800,602,279
+430,PPMussas,Moda,15200000,México,230400,10400,393
+431,Makiman131,"Películas, Animación",15200000,España,238400,11000,345
+432,LittleAngelBrasil,Animación,15100000,Unknown,206800,453,0
+433,NetflixJr,"Animación, Humor",15100000,Unknown,104200,197,0
+434,TazerCraft,"Películas, Animación",15000000,Brasil,182000,12700,525
+435,XpressTV,Ciencia y tecnología,15000000,México,1100000,33400,311
+436,ABCNews,Noticias y Política,15000000,Estados Unidos,10900,115,50
+437,Therichest,Noticias y Política,15000000,Estados Unidos,8500,246,19
+438,leagueoflegends,"Películas, Animación",15000000,Estados Unidos,909100,45300,1900
+439,mispastelitos,Comida y bebida,15000000,México,1700000,89700,903
+440,crashcourse,Ciencia y tecnología,15000000,Estados Unidos,28900,1200,32
+441,itowngameplay,"Animación, Videojuegos",15000000,México,47100,2600,167
+442,TroomTroomRu,"Videojuegos, Juguetes",15000000,Unknown,96000,2000,11
+443,jorgeemateus,Música y baile,14900000,Brasil,72600,2400,103
+444,MattyBRaps,Música y baile,14900000,Estados Unidos,267900,949,0
+445,OReinoInfantil,Música y baile,14900000,Unknown,88300,262,0
+446,AadishaktiFilms,Música y baile,14900000,Unknown,12500,336,30
+447,GyanGaming,"Videojuegos, Humor",14800000,India,264800,22700,248
+448,fueledbyramen,Música y baile,14800000,Estados Unidos,88400,696,40
+449,camilaloures,"Películas, Humor",14800000,Brasil,271900,16700,237
+450,MeghanTrainor,"Películas, Humor",14800000,Estados Unidos,17600,662,49
+451,majorlazer,"Música y baile, Películas",14800000,Estados Unidos,25700,722,36
+452,lachlan,"Animación, Videojuegos",14800000,Estados Unidos,500700,19500,262
+453,MalumaVEVO,Música y baile,14800000,México,226400,8500,275
+454,chadwildclay,"Películas, Humor",14800000,Estados Unidos,864700,17500,3200
+455,auron,"Películas, Animación",14800000,México,1100000,48800,861
+456,E_MasterSensei,"Películas, Videojuegos",14800000,México,519800,32200,459
+457,MartinGarrix,Música y baile,14800000,Estados Unidos,40700,4000,130
+458,collegehumor,"Películas, Humor",14800000,Estados Unidos,212000,10100,487
+459,BBCNews,Noticias y Política,14800000,Estados Unidos,66300,913,444
+460,DocTops,Animación,14800000,México,1300000,45200,881
+461,PrestonPlayz,"Animación, Videojuegos",14800000,Estados Unidos,787300,11900,686
+462,nostalgia,Ciencia y tecnología,14700000,Unknown,53900,6400,335
+463,cokestudio,"Música y baile, Películas",14700000,Pakistán,1800000,1400,47
+464,LikeNastya_Stories,"Animación, Juguetes",14700000,Unknown,77600,345,0
+465,user-ts8yv9np7m,"Películas, Humor",14700000,Unknown,38000,159,0
+466,infobellskannadarhymes,Educación,14700000,Unknown,348300,8100,0
+467,rebeccazamolo,"Videojuegos, Humor",14600000,Estados Unidos,2900000,30400,2600
+468,TheDodo,Animales y mascotas,14600000,Estados Unidos,462900,12300,412
+469,boramtubetoysreview9575,"Películas, Juguetes",14600000,Unknown,9500,77,0
+470,legendaefunk,"Música y baile, Animación",14600000,Brasil,3700,154,8
+471,woodyandkleiny,"Videojuegos, Humor",14600000,Estados Unidos,524900,35100,86
+472,NobruTV,"Películas, Animación",14600000,Brasil,367300,31300,125
+473,reactiontime,"Animación, Humor",14600000,Estados Unidos,12600,681,30
+474,TommyInnit,"Videojuegos, Humor",14600000,Estados Unidos,1400000,99000,4900
+475,LillySingh,"Animación, Humor",14600000,Estados Unidos,54700,3600,55
+476,IanBoggs,"Películas, Humor",14500000,Estados Unidos,2500000,175300,1800
+477,Drawblogs,"Películas, Animación",14400000,México,9300,446,25
+478,RosannaPansino,DIY y Life Hacks,14400000,Estados Unidos,48500,3300,31
+479,LuliPampin,"Música y baile, Animación",14400000,Unknown,1200000,2500,0
+480,CrescendocomLuluca,Animación,14400000,Brasil,768300,31200,1700
+481,AlexaRivera,"Animación, Humor",14400000,Estados Unidos,3500000,87700,2500
+482,dangmattsmith,"Animación, Humor",14400000,Unknown,58000,3000,274
+483,WishFM1075official,Música y baile,14400000,Filipinas,49400,711,73
+484,BobonSantoso,"Música y baile, Películas",14400000,Indonesia,242200,7100,137
+485,nikkietutorials,"Diseño/arte, Belleza",14400000,Estados Unidos,2700000,152400,1100
+486,Compot,Videojuegos,14400000,Rusia,1000000,40600,1700
+487,vladandnikirus,Juguetes,14300000,Unknown,832100,2700,0
+488,JamunaTVbd,Noticias y Política,14300000,Bangladesh,3800,70,11
+489,ETVJabardasth,Humor,14300000,India,70800,1700,4
+490,Jazzghost,"Animación, Videojuegos",14200000,Brasil,1400000,61500,2100
+491,airrack,"Videojuegos, Humor",14200000,Estados Unidos,4400000,192700,6400
+492,inventonahora,"Películas, Humor",14200000,Brasil,466900,47500,447
+493,nehakakkar,Música y baile,14200000,India,320100,25600,284
+494,ComePlayWithMe,"Películas, Juguetes",14200000,Unknown,1500000,0,0
+495,veritasium,Ciencia y tecnología,14200000,Estados Unidos,2800000,110800,7500
+496,karameeshchannel,Música y baile,14200000,Jordania,267600,1900,0
+497,AM3NlC,Coches y vehículos,14200000,Brasil,329100,25200,303
+498,trapcity,Música y baile,14200000,Estados Unidos,17500,734,30
+499,refugiomental6032,Películas,14200000,Argentina,76600,1200,22
+500,thinkmusicofficial,Música y baile,14200000,India,41900,1000,19
+501,tseriesregional,Música y baile,14200000,India,6900,59,5
+502,MasterskayaNastroeny,"Películas, Videojuegos",14100000,Rusia,125600,2700,81
+503,theHacksmith,Videojuegos,14100000,Estados Unidos,174900,10200,102
+504,StrayKids,"Música y baile, Películas",14100000,Estados Unidos,839600,146500,4300
+505,kidstvindia,Juguetes,14100000,Unknown,24100,70,0
+506,RaptorGamer,"Animación, Videojuegos",14000000,México,257400,19900,319
+507,OQueNaoDizerOficial,"Películas, Animación",14000000,Brasil,61400,7300,94
+508,Acenix,"Animación, Videojuegos",14000000,México,741100,23400,821
+509,Infobellsrhymes,"Juguetes, Coches y vehículos",14000000,Unknown,105600,3300,0
+510,bibotoysrus,"Animación, Juguetes",13900000,Unknown,106400,0,0
+511,adeletsami3286,"Animación, Humor, Juguetes",13900000,Francia,8000,37,0
+512,123GOSpanish,Animación,13900000,México,60400,547,15
+513,wesleysafadao,Música y baile,13900000,Brasil,162700,4600,139
+514,BBC,"Películas, Animación",13800000,Reino Unido,9900,226,5
+515,nishamadhulika,Comida y bebida,13800000,India,132400,3200,538
+516,AdamW,"Animación, Humor",13800000,Estados Unidos,2900000,98200,470
+517,FAPTV,"Animación, Humor",13800000,Estados Unidos,75100,2300,14
+518,jbalvinVEVO,"Música y baile, Películas",13800000,Colombia,0,0,0
+519,jojotvhindi,Música y baile,13800000,India,19700,499,0
+520,MAIKI021,"Animación, Humor",13800000,Brasil,6000,754,62
+521,penguinz0,Películas,13800000,Estados Unidos,1700000,71600,4500
+522,codiscos,Música y baile,13800000,Unknown,19500,287,7
+523,blockbustermovies7960,Vlogs diarios,13800000,India,8700,174,2
+524,ZeinabHarakeVlogs,Humor,13800000,Filipinas,2800000,94000,3700
+525,gmanews,Noticias y Política,13800000,Filipinas,3400,48,4
+526,TypicalGamer,Videojuegos,13800000,Estados Unidos,284700,7400,210
+527,mymissanand,"Películas, Humor",13700000,India,965100,17300,1000
+528,WanasahTV1,"Películas, Animación",13700000,Unknown,856300,3500,0
+529,ladydiana11,"Música y baile, Humor",13700000,Rusia,2600000,58300,3500
+530,AmaraQueLinda,Vlogs diarios,13600000,Colombia,719100,59000,172
+531,BUDI01GAMING,"Películas, Animación",13600000,Indonesia,625000,26000,1300
+532,lunomosik,Videojuegos,13600000,Rusia,1400000,27500,1200
+533,KidsLineKOYA,"Películas, Humor",13600000,Unknown,9300,40,0
+534,TrakinTech,Noticias y Política,13600000,India,418000,22800,817
+535,Vogue,Moda,13600000,Estados Unidos,114800,5700,44
+536,awakeningrecords,Música y baile,13600000,Indonesia,15300,675,35
+537,BanderitaX,"Animación, Videojuegos",13600000,Arabia Saudita,1200000,88200,4600
+538,Anaysa,"Películas, Humor",13600000,India,94900,4900,76
+539,Painzeiro,Vlogs diarios,13600000,Brasil,351800,7500,319
+540,PozziGamer,"Animación, Videojuegos",13600000,Rusia,391900,15400,1000
+541,ConorMaynard,Música y baile,13600000,Estados Unidos,52200,2600,131
+542,Wengie,Comida y bebida,13600000,Estados Unidos,17000,1200,137
+543,ryan,Películas,13600000,Estados Unidos,7000000,222800,11500
+544,sportsnationespn,Deportes,13500000,Estados Unidos,114000,3700,39
+545,MCDivertida,"Música y baile, Películas",13500000,Unknown,288700,1400,0
+546,MattSDance,"Música y baile, Películas",13400000,Estados Unidos,54200,2700,24
+547,theworldadventureshindi,Vlogs diarios,13400000,Unknown,6200,342,21
+548,SonotekBhakti,Música y baile,13400000,India,4400,109,13
+549,H2ODelirious,"Animación, Videojuegos",13400000,Estados Unidos,153900,6600,163
+550,athleanx,"Fitness, Salud y autoayuda",13400000,Estados Unidos,340400,13000,926
+551,TheInfographicsShow,Educación,13400000,Estados Unidos,162500,5700,232
+552,theRadBrad,"Animación, Videojuegos",13400000,Estados Unidos,76600,3200,182
+553,LofiGirl,Humor,13400000,Estados Unidos,139000,8500,132
+554,AzzyLand,Animación,13400000,Estados Unidos,115600,3600,472
+555,BrawlStars,Animación,13400000,Estados Unidos,1500000,98400,2700
+556,einerdtv,"Películas, Animación",13400000,Brasil,155100,22400,614
+557,AlexGonzagaOfficial,"Películas, Humor",13400000,Filipinas,1600000,36300,1100
+558,PeppaPigPortuguesOficial,"Películas, Animación",13300000,Unknown,354800,1900,0
+559,VexTrexKidsCartoon,"Películas, Animación",13300000,Unknown,21100,0,0
+560,OficialHungria,Música y baile,13300000,Brasil,75000,7400,132
+561,prantoniojunior,Música y baile,13300000,Brasil,246300,46500,5100
+562,Akon,Música y baile,13200000,Brasil,32000,1900,91
+563,knowledgetvhindi001,Educación,13200000,India,58100,2300,87
+564,MARIANAMIAMORCH,Películas,13200000,México,533700,32300,330
+565,NickPro,Deportes,13200000,Estados Unidos,12200000,286000,245
+566,RauwAlejandroTv,Música y baile,13200000,Perú,219400,7300,367
+567,klara_tania,"Películas, Animación",13200000,Indonesia,834500,47500,245
+568,Caylus,"Animación, Videojuegos",13200000,Estados Unidos,477600,11800,789
+569,AlArabiya,Noticias y Política,13200000,Marruecos,5000,90,5
+570,CznBurak,Vlogs diarios,13100000,Turquía,1400000,72500,1000
+571,CuteWolfVideos,"Películas, Juguetes",13100000,Unknown,53500,116,0
+572,ColeAndSav,Vlogs diarios,13000000,Estados Unidos,322100,10100,0
+573,gymvirtual,"Fitness, Salud y autoayuda",13000000,México,50900,1900,49
+574,DuoTiempoDeSol,"Música y baile, Animación",13000000,Unknown,47400,170,0
+575,KiryaKolesnikov,Vlogs diarios,13000000,Estados Unidos,54700,1900,7
+576,Chustertv,Videojuegos,13000000,España,1600000,96300,296
+577,francoescamilla,"Películas, Humor",13000000,México,560000,11800,288
+578,sulgiyang,"ASMR, Comida y bebida",13000000,Estados Unidos,557500,8600,349
+579,TalkingAngela,Música y baile,13000000,Estados Unidos,53000,360,0
+580,officialjassrecords,Música y baile,13000000,India,12800,662,7
+581,HeidiandZidaneEsp,Vlogs diarios,12900000,Unknown,61100,363,0
+582,Behindwoodstv,Vlogs diarios,12900000,Unknown,13300,386,2
+583,dhruvrathee,Noticias y Política,12900000,India,6400000,328000,10000
+584,EnglishConnectionByKanchan,Educación,12800000,India,247400,15200,279
+585,MundoBita,"Música y baile, Películas",12800000,Unknown,152700,2700,0
+586,NANDO,"Animación, Humor",12800000,Colombia,208300,13000,70
+587,elliegouldingofficial,Música y baile,12800000,Estados Unidos,0,0,0
+588,AdexeyNau,Música y baile,12800000,México,13100,1500,62
+589,NDTV,Noticias y Política,12800000,India,1400,10,1
+590,piuzinho,"Animación, Humor",12800000,Brasil,527100,107700,3800
+591,FlowersComedy,Humor,12800000,India,101900,1000,169
+592,FirstWeFeast,Películas,12800000,Estados Unidos,157600,5500,86
+593,Morgz,"Películas, Humor",12800000,Unknown,1100000,31100,217
+594,Littleglove,Vlogs diarios,12800000,India,1100000,61700,221
+595,MoonbugKids_SingAlongWithMe,Juguetes,12700000,Unknown,49000,100,0
+596,refugiomental6818,"Películas, Animación",12700000,Brasil,107400,2700,28
+597,Yair17,"Películas, Animación",12600000,México,159800,14700,411
+598,MasSKabeche,"Películas, Animación",12600000,México,0,0,0
+599,WaveMusicBhakti,Música y baile,12600000,Unknown,3400,52,3
+600,TheDaniRep,"Animación, Videojuegos",12600000,México,195500,19600,95
+601,parafernalha,"Películas, Humor",12600000,Brasil,84900,6300,55
+602,TimbaVk,"Animación, Videojuegos",12600000,México,414000,15200,472
+603,NasDaily,Educación,12600000,Estados Unidos,448700,19300,793
+604,TroomTroom_Indonesia,"Música y baile, Películas",12600000,Indonesia,59800,509,16
+605,casey,Películas,12600000,Estados Unidos,0,0,0
+606,jtcasey,"Animación, Humor",12600000,Estados Unidos,156600,7400,136
+607,aljazeera,Noticias y Política,12600000,Marruecos,7000,105,14
+608,WildNOut,"Música y baile, Humor",12600000,Estados Unidos,228400,8600,176
+609,BiperYSusAmigos,"Música y baile, Películas",12600000,Unknown,155000,0,0
+610,AvrilLavigne,Música y baile,12600000,Estados Unidos,53600,5700,197
+611,QuantumTech,Ciencia y tecnología,12600000,Estados Unidos,185300,2300,55
+612,DisneyChannelUK,"Películas, Humor",12600000,Unknown,19000,307,0
+613,TroomTroom_Pt,Animación,12600000,Brasil,43700,971,14
+614,redbull,Deportes,12600000,Estados Unidos,1400000,52300,322
+615,colinfurze,Videojuegos,12600000,Estados Unidos,1500000,69600,2600
+616,justinflom,"Películas, Humor",12600000,Estados Unidos,791700,18100,188
+617,PeopleVsFood,Comida y bebida,12600000,Estados Unidos,388300,14200,789
+618,Baby_Jenny,"Películas, Juguetes",12500000,Unknown,18600,71,0
+619,hzhtubekidsfun,"Animación, Juguetes",12500000,Unknown,79000,1500,0
+620,healthtime6469,Vlogs diarios,12500000,India,3300,115,4
+621,HeroMovies2023,Vlogs diarios,12500000,India,7100,215,2
+622,CalvinHarrisVEVO,Música y baile,12500000,Estados Unidos,71300,3500,156
+623,eltrece,Música y baile,12400000,Unknown,1500,15,3
+624,TheKingofRandom,DIY y Life Hacks,12400000,Estados Unidos,32700,1000,86
+625,ArynewsTvofficial,Noticias y Política,12400000,Pakistán,3600,75,2
+626,MakeJokeOf,"Películas, Animación",12400000,India,7400000,343000,12000
+627,ctctv,"Películas, Animación",12400000,Rusia,39900,940,20
+628,TalentRecap,"Música y baile, Películas",12400000,Estados Unidos,52100,544,36
+629,LittleTreehouseNurseryRhymes,"Juguetes, Coches y vehículos",12400000,Unknown,104200,373,0
+630,OliviaRodrigo,Música y baile,12400000,Estados Unidos,1600000,78000,2400
+631,GrandmasterJinBodhi,Animación,12400000,Singapur,26400,639,26
+632,_gogo2728,Vlogs diarios,12400000,India,86700,8200,37
+633,FilmTheory,"Películas, Animación",12400000,Estados Unidos,1200000,71500,4500
+634,HISTORY,Películas,12400000,Estados Unidos,108200,1900,167
+635,NattiNatasha,Música y baile,12400000,Estados Unidos,56300,3400,65
+636,123GO_,DIY y Life Hacks,12400000,Estados Unidos,133200,549,26
+637,belabagunca,"Películas, Animación",12400000,Brasil,114900,3900,87
+638,BlackEyedPeas,Música y baile,12400000,Estados Unidos,10100,498,9
+639,rathorvideo,Música y baile,12400000,India,5300,55,4
+640,InsideEdition,Noticias y Política,12400000,Estados Unidos,65800,1700,173
+641,Panda.,"Animación, Videojuegos",12400000,India,839300,70100,800
+642,WatchMeOff,"Películas, Animación",12300000,Rusia,749800,20200,89
+643,LuanSantana,Música y baile,12300000,Brasil,1200000,50000,1500
+644,JugnuKidsrhymes,"Comida y bebida, Juguetes",12300000,Unknown,46900,176,0
+645,LipaoGamer,"Películas, Animación",12200000,Brasil,130100,5100,86
+646,lilwayne,Coches y vehículos,12200000,Estados Unidos,203700,11100,576
+647,natandessie,"Juguetes, DIY y Life Hacks",12200000,Estados Unidos,62600,256,0
+648,itsxomgpop,"Música y baile, Películas",12200000,Unknown,32900,1500,0
+649,yogawithadriene,Fitness,12200000,Estados Unidos,0,0,0
+650,SPDNOO1,Humor,12200000,Tailandia,1600000,62500,137
+651,MashaBearHINDI,"Animación, Juguetes",12200000,Unknown,90900,1600,0
+652,brancoala,"Películas, Animación",12200000,Brasil,343100,6200,204
+653,flamingo,"Animación, Videojuegos",12200000,Estados Unidos,1800000,71300,8800
+654,OumWalidcuisine,Educación,12200000,Argelia,333500,16000,791
+655,elrubius,"Películas, Animación",12200000,México,1100000,85600,934
+656,Aniruddhacharyaji,Vlogs diarios,12100000,India,116400,3600,192
+657,SaregamaHumBhojpuri,Música y baile,12100000,India,39300,2200,40
+658,Super_Senya_RU,"Animación, Juguetes",12100000,Unknown,47200,192,0
+659,HiTechIslamic,Música y baile,12100000,Pakistán,62200,810,59
+660,CarryisLive,"Películas, Humor",12000000,India,0,0,0
+661,Family-Box,Películas,12000000,Rusia,173600,6600,105
+662,AnnoyingOrange,"Películas, Animación",12100000,Estados Unidos,187200,6900,445
+663,timesmusicindia,Música y baile,12100000,India,5400,265,7
+664,Super_Senya_RU,"Animación, Juguetes",12100000,Unknown,47200,192,0
+665,HiTechIslamic,Música y baile,12100000,Pakistán,62200,810,59
+666,HeeraGoldOfficial,Vlogs diarios,12000000,Pakistán,30600,953,70
+667,ChainsmokersVEVO,Música y baile,12000000,Estados Unidos,406600,16300,663
+668,Family-Box,Películas,12000000,Rusia,177400,6300,86
+669,dojacat,Música y baile,11900000,Estados Unidos,13600000,395300,73000
+670,CNCOMusic,Música y baile,11900000,México,8400,2100,83
+671,SingleTrackStudioz,Música y baile,11900000,India,20300,351,16
+672,FrontaLGaming,"Películas, Animación",11900000,Unknown,113100,3900,195
+673,mmdcrew,"Música y baile, Películas",11900000,Rusia,3100000,189900,4800
+674,PlanetEarthINDIA,Vlogs diarios,11900000,India,12200,577,61
+675,user-tt5ge5fj4i,"Música y baile, Animación",11900000,Unknown,72200,385,0
+676,UTKARSHCLASSES13,Educación,11900000,India,79100,6300,136
+677,PeppaPigHindiOfficial,"Películas, Juguetes",11900000,Unknown,451700,2900,0
+678,KaKaKidsTV,Animación,11900000,Unknown,19200,434,0
+679,toysplay,"Animación, Juguetes",11900000,Unknown,185200,506,0
+680,NickDiGiovanni,Comida y bebida,11900000,Estados Unidos,4300000,339800,2700
+681,sagahits,Música y baile,11900000,India,25800,497,10
+682,HikakinTV,Humor,11900000,Japón,2100000,51000,2300
+683,Enterr10Rangeela,Música y baile,11900000,India,20600,325,4
+684,KenhThieuNhiBHMedia,"Música y baile, Animación",11900000,Estados Unidos,10200,28,0
+685,mussoumano,"Música y baile, Animación",11900000,Brasil,1600000,68700,2400
+686,videogyan,"Animación, Juguetes",11800000,Unknown,955300,19800,0
+687,lukedavidson81,"Animación, Humor",11800000,Estados Unidos,1700000,109200,1000
+688,NFL,Deportes,11700000,Estados Unidos,21400,692,42
+689,MykeTowers,Música y baile,11700000,Colombia,11000,629,18
+690,cut,Humor,11700000,Estados Unidos,359000,8800,342
+691,JoeHattab,Películas,11700000,Somalia,1900000,98500,2900
+692,BeAmazed,Educación,11700000,Estados Unidos,477800,9900,556
+693,LittleAngelIndonesia,Música y baile,11700000,Unknown,211400,745,0
+694,OneindiaHindi,Noticias y Política,11700000,India,2200,31,1
